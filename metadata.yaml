@@ -1,0 +1,42 @@
+_repo: Unicorns_39116
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huneker, James
+    alias: Huneker, James Gibbons
+    birthdate: 1857
+    deathdate: 1921
+    gutenberg_agent_id: '1597'
+    url: http://www.gutenberg.org/2009/agents/1597
+    wikipedia: http://en.wikipedia.org/wiki/James_Huneker
+description: ''
+gutenberg_issued: '2012-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39116'
+  lccn: '17025117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music'
+- !lcsh 'Literature'
+- !lcc 'PS'
+- !lcsh 'Art'
+tableOfContents: 'In praise of unicorns -- An American composer: the passing of Edward
+  MacDowell -- Remy de Gourmont: His ideas. The colour of his mind -- Artzibashef
+  -- A note on Henry James -- George Sand -- The great American novel -- The case
+  of Paul Cézanne -- Brahmsody -- The opinions of J.-K. Huysmans -- Style and rhythm
+  in English prose -- The queerest yarn in the world -- On rereading Mallock -- The
+  lost master -- The grand manner in pianoforte playing -- James Joyce -- Creative
+  involution -- Four dimensional vistas -- O.W. -- A synthesis of the seven arts --
+  The classic Chopin -- Little mirrors of sincerity -- The reformation of George Moore
+  -- Pillowland -- Cross-currents in modern French literature -- More about Richard
+  Wagner -- My first musical adventure -- Violinists now and yesteryear -- Riding
+  the whirlwind -- Prayers for the living.'
+title: Unicorns
+url: http://www.gutenberg.org/ebooks/39116
